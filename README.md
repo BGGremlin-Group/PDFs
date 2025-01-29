@@ -1,2 +1,41 @@
-# PDFs
-A collection of OP PDFs
+### PDFs
+# *A collection of OP PDFs:*
+
+
+★ **Buffet_Theory.pdf** *1/27/25*
+
+
+★ **Fallout_Theory_.pdf** *1/27/25*
+
+
+★ **File32_Overview.pdf** *1/27/25*
+
+
+★ **Frontier_Psychiatry_.pdf** *1/27/25*
+
+
+★ **Grok_vs_GPT.pdf** *1/27/25*
+
+
+**TheAl_DarkTriad_AndYou.pdf** *1/27/25*
+
+
+★ **The_Hypnotist.pdf** *1/27/25*
+
+
+★ **Lies_for_Poor_People_1.pdf** *1/27/25*
+
+
+★ **Lies_For_Poor_People_2.pdf** *1/27/25*
+
+
+★ **Lies_For_Poor_People_3.pdf** *1/27/25*
+
+
+★ **Lies_for_Poor_People_4.pdf** *1/29/25*
+
+
+★ **Death_of_BMP.pdf** *1/29/25*
+
+
+★ **more to come**  *xx/xx/xxxx*
