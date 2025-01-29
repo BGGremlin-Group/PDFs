@@ -1,5 +1,5 @@
 ### PDFs
-# *A collection of OP PDFs:*
+## *A collection of OP PDFs:*
 
 
 ★ **Buffet_Theory.pdf** *1/27/25*
@@ -17,7 +17,7 @@
 ★ **Grok_vs_GPT.pdf** *1/27/25*
 
 
-**TheAl_DarkTriad_AndYou.pdf** *1/27/25*
+★ **TheAl_DarkTriad_AndYou.pdf** *1/27/25*
 
 
 ★ **The_Hypnotist.pdf** *1/27/25*
