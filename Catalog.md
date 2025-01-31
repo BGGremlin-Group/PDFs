@@ -1,5 +1,11 @@
 ### PDFs
-## *A collection of OP PDFs:*
+## ***A collection of OP PDFs:***
+
+
+★ **Steering_the_Ship.pdf** *1/31/25*
+
+
+★ **Apologies_to_Cannibals.pdf** *1/31/25*
 
 
 ★ **Buffet_Theory.pdf** *1/27/25*
