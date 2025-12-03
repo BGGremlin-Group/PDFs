@@ -2,6 +2,8 @@
 
 ## ***A collection of OP PDFs:***
 
+★ **Wargame25.md** *12/03/25
+
 
 ★ **Buffet_Theory.pdf** *1/27/25*
 
